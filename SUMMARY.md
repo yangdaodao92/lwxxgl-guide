@@ -5,5 +5,5 @@
    * [论文认领规则](claimRule.md)
    * [未能找到我参与发表的论文？](why-missed.md)
    * [如何填写申诉信息？](how-to-appeal.md)
-* [如何检索论文](search-in-official.md)
+   * [如何检索论文](search-in-official.md)
 
