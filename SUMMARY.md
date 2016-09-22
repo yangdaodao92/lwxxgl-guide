@@ -8,4 +8,5 @@
    * [在官网查询论文是否已收录](search-in-official.md)
    * [第一作者单位有误](first-aff-wrong.md)
 * [管理员操作](admin_operation.md)
+   * 审核论文
 
