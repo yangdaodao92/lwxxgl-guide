@@ -9,4 +9,5 @@
    * [第一作者单位有误](first-aff-wrong.md)
 * [管理员操作](admin_operation.md)
    * [审核论文](audit.md)
+       * 修改拼音对应的教职工
 
