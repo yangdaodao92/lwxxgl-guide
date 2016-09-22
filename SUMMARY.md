@@ -10,5 +10,5 @@
 * [管理员操作](admin_operation.md)
    * [审核论文](audit.md)
        * [修改作者信息](audit_user.md)
-       * 论文详细信息修改
+       * [论文详细信息修改](audit_detail.md)
 
