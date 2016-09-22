@@ -11,5 +11,5 @@
    * [审核论文](audit.md)
        * [修改作者信息](audit_user.md)
        * [论文详细信息修改](audit_detail.md)
-       * audit_others
+       * 其它信息修改
 
