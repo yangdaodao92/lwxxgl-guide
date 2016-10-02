@@ -1,6 +1,7 @@
 # Summary
 
 * [介绍](README.md)
+* [基本操作](user_operation.md)
 * [常见问题及解决](problem&solutions.md)
    * [论文认领规则](claimRule.md)
    * [未能找到我参与发表的论文？](why-missed.md)
@@ -13,5 +14,4 @@
        * [论文详细信息修改](audit_detail.md)
        * [其它信息修改](audit_others.md)
    * [全学院的论文](all_article_in_subunit.md)
-* [基本操作](user_operation.md)
 
