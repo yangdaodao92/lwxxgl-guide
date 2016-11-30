@@ -10,7 +10,7 @@
    * [第一作者单位有误](first-aff-wrong.md)
    * [为何论文作者匹配错误？](why_wrong_match.md)
    * [舍弃操作有何作用？](abandon_operation.md)
-   * 提交的遗漏论文已存在
+   * [提交的遗漏论文已存在](missed_exist.md)
 * [管理员操作](admin_operation.md)
    * [审核论文](audit.md)
        * [修改作者信息](audit_user.md)
